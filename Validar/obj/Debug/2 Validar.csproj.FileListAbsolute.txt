@@ -1,0 +1,9 @@
+C:\Curso C#\CRUD ASP OK\Validar\bin\Debug\Validar.dll
+C:\Curso C#\CRUD ASP OK\Validar\bin\Debug\Validar.pdb
+C:\Curso C#\CRUD ASP OK\Validar\bin\Debug\BaseDatos.dll
+C:\Curso C#\CRUD ASP OK\Validar\bin\Debug\BaseDatos.pdb
+C:\Curso C#\CRUD ASP OK\Validar\obj\Debug\2 Validar.csproj.AssemblyReference.cache
+C:\Curso C#\CRUD ASP OK\Validar\obj\Debug\2 Validar.csproj.CoreCompileInputs.cache
+C:\Curso C#\CRUD ASP OK\Validar\obj\Debug\2 Validar.csproj.CopyComplete
+C:\Curso C#\CRUD ASP OK\Validar\obj\Debug\Validar.dll
+C:\Curso C#\CRUD ASP OK\Validar\obj\Debug\Validar.pdb

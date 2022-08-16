@@ -1,0 +1,16 @@
+﻿body {
+    height: 400px;
+    background-image: url("https://www.xtrafondos.com/wallpapers/ubuntu-15-vivid-vervet-3441.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+.fondo {
+    color: red;
+    background-color:aquamarine
+}
+
+.centrar {
+    text-align: center
+}
